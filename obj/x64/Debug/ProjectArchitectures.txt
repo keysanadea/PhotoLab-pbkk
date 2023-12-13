@@ -1,0 +1,1 @@
+C:\Users\danin\Downloads\Photolab-main\PhotoLab\PhotoLab.csproj;x64
